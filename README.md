@@ -92,12 +92,6 @@ gemma3_routine/gemma_processor.py
 ### 1.4 Random Forest Analysis Pipeline
 
 ```
-rf.py
-├── Input: TasksGPT_SOC2010_CPSready_region_temp.dta
-├── Dependencies: None
-├── Components: Random Forest with SHAP analysis
-└── Output: Temporal plots, SHAP analysis results
-
 rf_threading.py
 ├── Input: TasksGPT_SOC2010_CPSready_region_temp.dta
 ├── Dependencies: None
@@ -236,15 +230,6 @@ main.do
 - Comprehensive error handling and logging
 
 ### 2.5 Statistical Analysis Files
-
-#### rf.py
-**Role**: Random Forest analysis with SHAP interpretation  
-**Function**: 
-- Trains Random Forest models on occupation-gender combinations
-- Generates SHAP (SHapley Additive exPlanations) values for interpretability
-- Creates temporal analysis plots showing routine/cognitive changes over time
-- Handles complex feature engineering (states, industries, education dummies)
-- Provides correlation analysis and performance metrics
 
 #### rf_threading.py
 **Role**: High-performance Random Forest with GPU optimization  
