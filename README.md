@@ -6,6 +6,18 @@ This research project analyzes task polarization using Large Language Models (LL
 ## Replication File Download
 - [Dropbox Link](https://www.dropbox.com/scl/fo/96ir1z4hf7yg1wa2haa39/AEtm-ZxSd9eNfd9FRnwtAD0?rlkey=dibdjeinp3f3v4d86dhte4q6r&st=49lfjp4v)
 
+## Requirements
+- At least 20 CPUs
+- A100 80GB GPU
+- At least 64GB RAM
+- Windows 10 / 11
+
+## Python Environment Installation
+- Python version 3.12
+- [Install CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
+- Recommend using conda (Miniconda)
+- pip install -r requirements.txt
+
 ## 1. Main Python Files Tree Structure
 
 ### 1.1 Data Processing and Classification Pipeline
