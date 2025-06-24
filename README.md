@@ -20,6 +20,10 @@ This research project analyzes task polarization using Large Language Models (LL
   - conda activate myenv
 - At your desired location (downloaded location),
   - pip install -r requirements.txt
+  - # MANDATORY PyTorch CUDA Installation - DO NOT CHANGE
+    - pip uninstall torch torchvision torchaudio -y
+    - pip install torch==2.7.0+cu118 torchvision==0.22.0+cu118 torchaudio==2.7.0+cu118 --index-url https://download.pytorch.org/whl/cu118
+
 
 ## 1. Main Python Files Tree Structure
 
