@@ -13,7 +13,7 @@ This research project analyzes task polarization using Large Language Models (LL
 - Windows 10 / 11
 
 ## Python Environment Installation
-- Python version 3.12
+- Python version 3.12.10
 - [Install CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
 - Recommend using conda (Miniconda)
 - pip install -r requirements.txt
