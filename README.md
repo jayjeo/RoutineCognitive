@@ -23,7 +23,9 @@ This research project analyzes task polarization using Large Language Models (LL
   - MANDATORY PyTorch Installation 
     - pip uninstall torch torchvision torchaudio -y
     - pip install torch==2.7.0+cu118 torchvision==0.22.0+cu118 torchaudio==2.7.0+cu118 --index-url https://download.pytorch.org/whl/cu118
-
+- If you encounter Huggingface token error, login to https://huggingface.co/google/gemma-3-27b-it
+  - Then regenerate your own token with write permission,
+  - Then copy and paste it to the python code.
 
 ## 1. Main Python Files Tree Structure
 
