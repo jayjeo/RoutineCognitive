@@ -4,7 +4,7 @@
 This research project analyzes task polarization using Large Language Models (LLMs) to classify occupational tasks as routine/non-routine and cognitive/manual. The project integrates multiple AI models, deep learning approaches, and econometric analysis.
 
 ## Replication File Download
-- [Dropbox Link](https://www.dropbox.com/scl/fo/96ir1z4hf7yg1wa2haa39/AEtm-ZxSd9eNfd9FRnwtAD0?rlkey=dibdjeinp3f3v4d86dhte4q6r&st=49lfjp4v)
+- [Download Link](https://home-7k2m.synology.me:5001/d/s/18FSSKjUnjkLhJtFfILRarYZs1TH7YAC/EyRA2XjLkXsODbORiLV4vfeDjelB9AGF-3LeAlLZtPQ0)
 
 ## Requirements
 - At least 20 CPUs
